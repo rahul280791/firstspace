@@ -14,6 +14,9 @@ public class PracticeClass {
 		System.out.println(con.f);
 		System.out.println(con.s);
 		System.out.println(con1.s);
+		
+		ConstructIt con3 = new ConstructIt();
+		System.out.println(con3.i);
 	}
 
 }
