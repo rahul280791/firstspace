@@ -9,11 +9,11 @@ public class ConstructIt {
 	
 	
 	public ConstructIt() {
-		// TODO Auto-generated constructor stub
+		// TODO Auto-generated constructor stub+
 	}
 	public ConstructIt(int i) {
 		// TODO Auto-generated constructor stub
-		this.i=i;
+		ConstructIt.i=i;
 	}
 	
 	public ConstructIt(int i, String s) {
